@@ -1432,10 +1432,4 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libplatformconfig \
     android.hardware.biometrics.fingerprint@2.1-service.RMX1851 \
-    android.hardware.gnss@2.0-service-qti \
     android.hardware.light@2.0-service.RMX1851 \
-    android.hardware.thermal@2.0-service.qti \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi@1.0-service \
-    manifest_android.hardware.drm@1.3-service.clearkey \
-    vendor.qti.gnss@3.0-service
