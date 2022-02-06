@@ -1431,42 +1431,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libplatformconfig \
-    CneApp \
-    IWlanService \
-    TimeService \
-    FM2 \
-    QtiTelephonyService \
-    WAPPushManager \
-    uceShimService \
-    CarrierConfig \
-    EmergencyInfo \
-    Gallery2 \
-    QuickAccessWallet \
-    Settings \
-    SimpleDeviceConfig \
-    Snap \
-    StorageManager \
-    SystemUI \
-    ThemePicker \
-    TrebuchetQuickStep \
-    WallpaperCropper \
-    WfdService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    WfdCommon \
-    audiosphere \
-    com.quicinc.cne.api-V1.1-java \
-    com.quicinc.cne.constants-V1.0-java \
-    com.quicinc.cne.constants-V2.0-java \
-    com.quicinc.cne.constants-V2.1-java \
-    QtiTelephonyServicelibrary \
-    com.qti.dpmframework \
-    dpmapi \
-    qcrilhook \
-    qti-telephony-common \
-    qti-telephony-hidl-wrapper \
-    qti-telephony-utils \
     android.hardware.biometrics.fingerprint@2.1-service.RMX1851 \
     android.hardware.gnss@2.0-service-qti \
     android.hardware.light@2.0-service.RMX1851 \
