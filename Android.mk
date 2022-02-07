@@ -22,8 +22,8 @@ ifeq ($(TARGET_DEVICE),RMX1851)
 include $(CLEAR_VARS)
 LOCAL_MODULE := libqdMetaData
 LOCAL_MODULE_OWNER := Realme
-LOCAL_SRC_FILES_64 := proprietary/lib64/libqdMetaData.so
-LOCAL_SRC_FILES_32 := proprietary/lib/libqdMetaData.so
+LOCAL_SRC_FILES_64 := proprietary/system_ext/lib/libqdMetaData.so
+LOCAL_SRC_FILES_32 := proprietary/system_ext/lib64/libqdMetaData.so
 LOCAL_MULTILIB := both
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := SHARED_LIBRARIES
